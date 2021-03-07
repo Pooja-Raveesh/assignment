@@ -1,0 +1,24 @@
+.btn-sml {
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.nav-link{
+    color: black;
+}
+.nav-item,ul{
+    list-style-type:none;
+}
+.card{
+    color: white;
+    background-color: black;
+    border-radius: 0px;
+
+}
+#color{
+    color: white;
+}
+hr{
+  border-top-color: white;
+  width: 3cm;
+
+}
